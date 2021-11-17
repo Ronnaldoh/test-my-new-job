@@ -15,7 +15,7 @@
 @media (min-width: 280px) and (max-width: 767px) {
   .main-container {
     width: 100%;
-    height: 190vh;
+    height: 170vh;
   }
 }
 .main-container::before {
